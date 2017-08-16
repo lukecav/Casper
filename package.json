@@ -1,5 +1,5 @@
 {
-    "name": "casper",
+    "name": "cosper",
     "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
     "demo": "https://demo.ghost.io",
     "version": "2.0.4",
@@ -31,7 +31,7 @@
         "type": "git",
         "url": "https://github.com/TryGhost/Casper.git"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
+    "bugs": "https://github.com/lukecav/Casper/issues",
     "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
